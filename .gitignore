@@ -1,0 +1,9 @@
+# Objects
+
+ft_strlen.o
+ft_strlen_test.o
+
+# Binaries
+
+libasm.a
+a.out
